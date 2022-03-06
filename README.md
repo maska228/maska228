@@ -1,5 +1,5 @@
 
-```
+```lua
 --[[
 i didn't realise it until now, but im literally turning into an actual dev, even tho im 14.
 like the only thing fueling me rn is coffee lmao
