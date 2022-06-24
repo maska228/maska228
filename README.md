@@ -1,3 +1,3 @@
-- if you need to contact me (for some odd reason) you can, at: Moiseev-MP@yandex.com
-- ~~i also have a twitter account~~ nvm rkn blocked twt like 10 days ago apparently.
-- i also have a reddit account: u/Cool-Cup-228
+- if you need to contact me (for some odd reason) you can, at: [Moiseev-MP@yandex.com](mailto:Moiseev-MP@yandex.com)
+- i also have a reddit account: [u/Cool-Cup-228](https://reddit.com/u/Cool-Cup-228)
+- or you could just write me 
