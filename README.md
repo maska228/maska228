@@ -27,6 +27,6 @@ languages i know include some of the most begginer-friendly ones, like
 - email: [Moiseev-MP@yandex.com](mailto:Moiseev-MP@yandex.com)
 - reddit: [u/Cool-Cup-228](https://reddit.com/u/Cool-Cup-228)
 - guess what, i have a discord now. Una ves mas\#0065
-- oh also youtube but i don't do that much shit there(other than really bad midi slaps). @generallyunimportant.
+- oh also youtube but i don't do that much shit there(other than really bad midi slaps). [@generallyunimportant](youtube.com/@generallyunimportant).
 
 <sup>none of them are used that often, except youtube because i need to consoom content to distract me from SOMEWHERE</sup>
