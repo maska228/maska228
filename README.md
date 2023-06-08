@@ -4,13 +4,9 @@ im a kid still in high school trying to do coding and (mostly) failing miserably
 my timezone is UTC+7 (and i don't visit github very often) so  ``💭 I may be slow to respond``.
 
 ## the thing im currently doing/working on
-<sup>let's hope i won't forget to update this section!!</sup>
+procrastination 💯
 
-working on a huge idea hybrid project in haxe, with a shared theme of losing control.
-
-<sup>aiming for a june OR spooky month release, though i will probably miss both of em kekw</sup>
-
-the most painful thing is doing sprites because i genuinely just can't do good pixel art lmao.
+also passively learning more love2d to do the upcoming gmtk jam or the gh game-off, but that's not really interesting.
 
 ## languages i know
 languages i know include some of the most begginer-friendly ones, like
@@ -24,6 +20,8 @@ languages i know include some of the most begginer-friendly ones, like
 
 ## contact me at these rather strange locations
 <sub>no hablo espanol, ingles por favor</sub>
+
+<sub>je ne parle pas francais, anglais sil vou ple</sub>
 - email: [Moiseev-MP@yandex.com](mailto:Moiseev-MP@yandex.com)
 - reddit: [u/Cool-Cup-228](https://reddit.com/u/Cool-Cup-228)
 - guess what, i have a discord now. Una ves mas\#0065
