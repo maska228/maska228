@@ -24,10 +24,10 @@ languages i know include some of the most begginer-friendly ones, like
 <sub>je ne parle pas francais, anglais sil vou ple</sub>
 
 <sub>и я, кстати, говорю по русски, но английский всё-равно лучше потому-что мой русский сосёт лол</sub>
-- email: [Moiseev-MP@yandex.com](mailto:Moiseev-MP@yandex.com).
-- reddit: [u/Cool-Cup-228](https://reddit.com/u/Cool-Cup-228).
-- guess what, i have a discord now. Una ves mas\#0065.
-- oh also youtube but i don't do much there. [@generallyunimportant](https://youtube.com/@generallyunimportant).
+- email: [Moiseev-MP@yandex.com](mailto:Moiseev-MP@yandex.com)
+- reddit: [u/Cool-Cup-228](https://reddit.com/u/Cool-Cup-228)
+- guess what, i have a discord now. Una ves mas\#0065
+- oh also youtube but i don't do much there. [@generallyunimportant](https://youtube.com/@generallyunimportant)
 - itchy-o: <!-- honk --> [u-s-ername](https://u-s-ername.itch.io).
 
 <sup>none of them are used that often, except youtube because i need to consoom content to distract me from.. uh... things................</sup>
