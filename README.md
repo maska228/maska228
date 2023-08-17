@@ -23,7 +23,7 @@ procrastination 💯
 <sub>и я, кстати, говорю по русски, но английский всё-равно лучше потому-что мой русский сосёт лол</sub>
 - email: [Moiseev-MP@yandex.com](mailto:Moiseev-MP@yandex.com)
 - reddit: [u/Cool-Cup-228](https://reddit.com/u/Cool-Cup-228)
-- guess what, i have a discord. Una ves mas\#0065
+- guess what, i have a discord. it's ``generallyunimportant``.
 - oh also youtube but i don't do much there. [@generallyunimportant](https://youtube.com/@generallyunimportant)
 - itchy-o: <!-- maybe it's the way you're dressed? maybe- may- ay- ayayayayayyayayayayayyayayay --> [u-s-ername](https://u-s-ername.itch.io).
 
