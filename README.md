@@ -1,7 +1,7 @@
 # hey guys
 collector's anxiety in open-world rpgs here, do you ever think about how weird time is? it's that really zany thing that humans made up for datesaving and sanitykeeping. because of how weird it is i never really could keep up with it without a consistent week and sleep schedules.
 
-anyways, with that tangent over, my timezone is UTC+7 (and i don't visit github very often) so  ``💭 I may be slow to respond``.
+anyways, with that tangent over, my timezone is [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc7) (and i don't visit github very often) so  ``💭 I may be slow to respond``.
 
 ## the thing im currently doing/working on
 procrastination 💯
