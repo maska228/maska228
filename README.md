@@ -3,7 +3,9 @@ mask here
 
 my timezone is [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc7) (and i don't visit github very often) so  ``💭 I may be slow to respond``.
 
-code in pull requests created by me after ``10.10.2023 09:00 UTC+7`` to public github repositories can be assumed to be public domain, meaning the owners of the repository may do anything they want with it, and _hopefully_ won't bug me about license changes. i don't need any attribution either, so it's a win-win for the both of us, bestire! ^-^ <!--best tire ftw--> <sup>can someone help me with the phrasing on this i legit can't make it sound good</sup>
+code in pull requests created by me after ``10.10.2023 09:00 UTC+7`` to public github repositories can be assumed to be public domain, meaning the owners of the repository may do anything they want with it, and _hopefully_ won't bug me about license changes. i don't need any attribution either, so it's a win-win for the both of us, bestire! ^-^ <!--best tire ftw--> <sup>can someone help me with the phrasing on this i legit can't make it sound gramatically corrext</sup>
+
+pfp is 32x32px enlarged to 1024x1024 so github doesn't compress it as much, uses colors from [S-Lucky](https://lospec.com/palette-list/s-lucky) by [Anubi](https://lospec.com/anubi), with a white layer for the background that has a red/blue gradient with 95 alpha to make a cool looking thingeth. i'll give you the source file OR the extremely artsy meaning i made up for it if you ask nicely <3 <3 <3.
 
 ## the thing im currently doing/working on
 i was writing an npm lib called ``wordsarehard`` to release under [gq's](https://github.com/xxxqsq) but adhd got the better of me. currently still in early design protoing stages, mostly for the ui of a demo.
