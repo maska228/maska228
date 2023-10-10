@@ -8,7 +8,7 @@ code in pull requests created by me after ``10.10.2023 09:00 UTC+7`` to public g
 ## the thing im currently doing/working on
 i was writing an npm lib called ``wordsarehard`` to release under [gq's](https://github.com/xxxqsq) but adhd got the better of me. currently still in early design protoing stages, mostly for the ui of a demo.
 
-oh and i got a fork of [pret/pokefirered](https://github.com/pret/pokefirered) going that makes everything funny toby fox bepis (valley granola bars). why? i got bored and discovered that there's a decomp of frlg that i can add really dumb jokes to that only i will understand. hopefully i'll get some C knowledge out of it but, knowing me, that's unlikely.
+oh and i got a fork of [pret/pokefirered](https://github.com/pret/pokefirered) called [pokebepis](https://github.com/maska228/pokebepis) going that makes everything funny toby fox bepis (valley granola bars). why? i got bored and discovered that there's a decomp of frlg that i can add really dumb jokes to that only i will understand. hopefully i'll get some C knowledge out of it but, knowing me, that is very unlikely.
 
 other than that miscellany, it's ~~candy~~ procrastination all day, every day. candy. candy. candy. candy.
 
