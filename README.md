@@ -35,5 +35,5 @@ other than that miscellany, it's ~~candy~~ procrastination all day, every day. c
 - oh also youtube but i don't do much there. [@generallyunimportant](https://youtube.com/@generallyunimportant)
 - itchy-o: <!-- maybe it's the way you're dressed? maybe- may- ay- ayayayayayyayayayayayyayayay --> [u-s-ername](https://u-s-ername.itch.io).
 
-<sup>none of them are used that often, except youtube because my adhd ass needs to multitask for some effin' reason</sup>
+<sup>none of them are used that often, except youtube because i consume a lot of content</sup>
 # \</sup>
