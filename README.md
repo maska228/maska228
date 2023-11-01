@@ -5,8 +5,6 @@ my timezone is [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc7) (an
 
 code in pull requests created by me after ``10.10.2023 09:00 UTC+7`` to public github repositories can be assumed to be public domain(unless stated otherwise), meaning the owners of the repository may do anything they want with it, and _hopefully_ won't bug me about license changes. i don't need any attribution either, so it's a win-win for the both of us, bestire! ^-^ <!--best tire, fr-->
 
-pfp is 32x32px enlarged to 1024x1024 so github doesn't compress it as much, uses colors from [S-Lucky](https://lospec.com/palette-list/s-lucky) by [Anubi](https://lospec.com/anubi), with a white layer in the background that has a red/blue gradient with 95 alpha on top of it to make a cool looking thingeth. i'll give you the source file OR the extremely artsy meaning i made up for it if you ask nicely <3 <3 <3
-
 ## the thing im currently doing/working on
 i was writing a js lib called ``wordsarehard`` to release under [gq's](https://github.com/xxxqsq) but adhd got the better of me. currently still in early design protoing stages, mostly for the ui of a demo.
 
@@ -36,4 +34,13 @@ other than that miscellany, it's ~~candy~~ procrastination all day, every day. c
 - itchy-o: <!-- maybe it's the way you're dressed? maybe- may- ay- ayayayayayyayayayayayyayayay --> [u-s-ername](https://u-s-ername.itch.io).
 
 <sup>none of them are used that often, except youtube because i consume a lot of content</sup>
+
+## misc
+<details><summary>pfp details</summary>
+<p>
+pfp is 32x32px enlarged to 1024x1024 so github doesn't compress it as much, uses colors from <a href=https://lospec.com/palette-list/s-lucky>S-Lucky</a> by <a href=https://lospec.com/anubi>Anubi</a>, with a white layer in the background that has a red/blue gradient with 95 alpha on top of it to make a cool looking bg. i'll give you the source file OR the extremely artsy meaning i made up for it if you ask nicely <3 <3 <3
+<!--don't you love html in the middle of markdown using html instead of markdown link format? also, good job on highlighting the comment improperly, github.-->
+</p>
+</details>
+
 # \</sup>
