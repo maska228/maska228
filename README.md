@@ -1,6 +1,9 @@
 # \<sup>
 mask here
 
+## NOTICE
+this account may be 502'd(moved permanently) to some other website because i can't be fucked to set up 2FA on github.
+
 my timezone is [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc7) (and i don't visit github very often) so  ``💭 I may be slow to respond``.
 
 code in pull requests created by me after ``10.10.2023 09:00 UTC+7`` to public github repositories can be assumed to be public domain(unless stated otherwise), meaning the owners of the repository may do anything they want with it, and _hopefully_ won't bug me about license changes. i don't need any attribution either, so it's a win-win for the both of us, bestire! ^-^ <!--best tire, fr-->
