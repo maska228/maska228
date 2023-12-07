@@ -1,8 +1,7 @@
+this account may be 502'd(moved permanently) to some other website because i can't be fucked to set up 2FA on github,,
+--
 # \<sup>
 mask here
-
-## NOTICE
-this account may be 502'd(moved permanently) to some other website because i can't be fucked to set up 2FA on github.
 
 my timezone is [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc7) (and i don't visit github very often) so  ``💭 I may be slow to respond``.
 
